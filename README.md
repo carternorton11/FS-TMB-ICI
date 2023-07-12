@@ -1,5 +1,5 @@
 # FS-TMB-ICI
-An analysis of the relationships between frameshift mutations, tumor mutational burden, and immune checkpoint inhibitors
+An analysis of the relationships between frameshift mutations, tumor mutational burden, and immune checkpoint inhibitors in a cohort of ~200 cancer patients. 
 
 ### T-Tests
 I performed independent t-tests to determine the significance between frameshift mutations, tumor burden, treatment burden and survival time.
