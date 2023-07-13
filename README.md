@@ -2,7 +2,7 @@
 An analysis of the relationships between frameshift mutations, tumor mutational burden, and immune checkpoint inhibitors in a cohort of ~200 cancer patients. 
 
 ### T-Tests
-I performed independent t-tests to determine the significance between frameshift mutations, tumor burden, treatment burden and survival time. Here is a KM curve comparing OS survival time. 
+I performed independent t-tests to determine the significance between frameshift mutations, tumor burden, treatment burden and survival time. Here is a KM curve comparing OS survival time among patients with high and low tumor mutation burdens. 
 
 ![TMB_KM](https://github.com/carternorton11/FS-TMB-ICI/assets/99043737/2df97c6f-8e65-49b9-85f7-2409c0046adc)
 
